@@ -1,0 +1,400 @@
+@media (max-width:768px) {
+  .main-wrapper {
+    margin-left: auto;
+    margin-right: auto;
+    width: 375px
+  }
+  .style1 {
+    background-color: #000;
+    opacity: .5031920075416565;
+    display: flex;
+    margin-left: 0;
+    margin-top: 0;
+    width: 396px;
+    height: 832px;
+    flex-direction: column
+  }
+  .style11 {
+    color: #fff;
+    font-family: sfuitext,serif;
+    font-size: 1.0625em;
+    margin-top: 50px;
+    height: 21px;
+    align-self: center
+  }
+  .style10 {
+    background-color: #fff;
+    margin-left: 45px;
+    margin-top: 37px;
+    width: 0;
+    height: 0
+  }
+  .style7 {
+    background-image: url(https://designresources.assets.yotako.io/yjqwocjusbf7jo.png);
+    background-repeat: no-repeat;
+    background-size: contain;
+    background-position-x: center;
+    background-position-y: center;
+    border-left: 1px solid #fff;
+    border-right: 1px solid #fff;
+    border-top: 1px solid #fff;
+    border-bottom: 1px solid #fff;
+    border-top-left-radius: 3px;
+    border-top-right-radius: 3px;
+    border-bottom-left-radius: 3px;
+    border-bottom-right-radius: 3px;
+    margin-top: 5px;
+    width: 310px;
+    height: 261px;
+    align-self: center
+  }
+  .uploadpicturecontainer1row3 {
+    display: flex;
+    margin-left: 43px;
+    margin-top: 12px;
+    width: 136px;
+    height: 16px;
+    align-items: stretch
+  }
+  .style13 {
+    background-color: #fff;
+    border-left: 1px solid #fff;
+    border-right: 1px solid #fff;
+    border-top: 1px solid #fff;
+    border-bottom: 1px solid #fff;
+    border-top-left-radius: 2px;
+    border-top-right-radius: 2px;
+    border-bottom-left-radius: 2px;
+    border-bottom-right-radius: 2px;
+    margin-left: 0;
+    width: 15px
+  }
+  .style12 {
+    color: #fff;
+    font-family: sfuidisplay,serif;
+    font-size: .8125em;
+    font-weight: 300;
+    margin-left: 16px
+  }
+  .style8 {
+    background-color: #fff;
+    border-top-left-radius: 3px;
+    border-top-right-radius: 3px;
+    border-bottom-left-radius: 3px;
+    border-bottom-right-radius: 3px;
+    display: flex;
+    margin-top: 10px;
+    width: 310px;
+    height: 40px;
+    align-items: center;
+    align-self: center;
+    flex-direction: column;
+    justify-content: center
+  }
+  .style9 {
+    color: #36454f;
+    font-family: sfuitext,serif;
+    font-size: .9375em;
+    height: 19px
+  }
+}
+@media (min-width:768px) and (max-width:920px) {
+  .main-wrapper {
+    margin-left: auto;
+    margin-right: auto;
+    width: 768px
+  }
+  .style1 {
+    background-color: #000;
+    opacity: .5031920075416565;
+    display: flex;
+    margin-left: 0;
+    margin-top: 0;
+    width: 811px;
+    height: 1704px;
+    flex-direction: column
+  }
+  .style11 {
+    color: #fff;
+    font-family: sfuitext,serif;
+    font-size: 2.176em;
+    margin-top: 102px;
+    height: 43px;
+    align-self: center
+  }
+  .style10 {
+    background-color: #fff;
+    margin-left: 92px;
+    margin-top: 76px;
+    width: 0;
+    height: 0
+  }
+  .style7 {
+    background-image: url(https://designresources.assets.yotako.io/yjqwocjusbf7jo.png);
+    background-repeat: no-repeat;
+    background-size: contain;
+    background-position-x: center;
+    background-position-y: center;
+    border-left: 1px solid #fff;
+    border-right: 1px solid #fff;
+    border-top: 1px solid #fff;
+    border-bottom: 1px solid #fff;
+    border-top-left-radius: 3px;
+    border-top-right-radius: 3px;
+    border-bottom-left-radius: 3px;
+    border-bottom-right-radius: 3px;
+    margin-top: 10px;
+    width: 635px;
+    height: 535px;
+    align-self: center
+  }
+  .uploadpicturecontainer1row3 {
+    display: flex;
+    margin-left: 88px;
+    margin-top: 25px;
+    width: 279px;
+    height: 33px;
+    align-items: stretch
+  }
+  .style13 {
+    background-color: #fff;
+    border-left: 1px solid #fff;
+    border-right: 1px solid #fff;
+    border-top: 1px solid #fff;
+    border-bottom: 1px solid #fff;
+    border-top-left-radius: 2px;
+    border-top-right-radius: 2px;
+    border-bottom-left-radius: 2px;
+    border-bottom-right-radius: 2px;
+    margin-left: 0;
+    width: 31px
+  }
+  .style12 {
+    color: #fff;
+    font-family: sfuidisplay,serif;
+    font-size: 1.6640000000000001em;
+    font-weight: 300;
+    margin-left: 33px
+  }
+  .style8 {
+    background-color: #fff;
+    border-top-left-radius: 3px;
+    border-top-right-radius: 3px;
+    border-bottom-left-radius: 3px;
+    border-bottom-right-radius: 3px;
+    display: flex;
+    margin-top: 20px;
+    width: 635px;
+    height: 82px;
+    align-items: center;
+    align-self: center;
+    flex-direction: column;
+    justify-content: center
+  }
+  .style9 {
+    color: #36454f;
+    font-family: sfuitext,serif;
+    font-size: 1.92em;
+    height: 39px
+  }
+}
+@media (min-width:920px) and (max-width:1200px) {
+  .main-wrapper {
+    margin-left: auto;
+    margin-right: auto;
+    width: 920px
+  }
+  .style1 {
+    background-color: #000;
+    opacity: .5031920075416565;
+    display: flex;
+    margin-left: 0;
+    margin-top: 0;
+    width: 972px;
+    height: 2041px;
+    flex-direction: column
+  }
+  .style11 {
+    color: #fff;
+    font-family: sfuitext,serif;
+    font-size: 2.6066666666666665em;
+    margin-top: 123px;
+    height: 52px;
+    align-self: center
+  }
+  .style10 {
+    background-color: #fff;
+    margin-left: 110px;
+    margin-top: 91px;
+    width: 0;
+    height: 0
+  }
+  .style7 {
+    background-image: url(https://designresources.assets.yotako.io/yjqwocjusbf7jo.png);
+    background-repeat: no-repeat;
+    background-size: contain;
+    background-position-x: center;
+    background-position-y: center;
+    border-left: 1px solid #fff;
+    border-right: 1px solid #fff;
+    border-top: 1px solid #fff;
+    border-bottom: 1px solid #fff;
+    border-top-left-radius: 3px;
+    border-top-right-radius: 3px;
+    border-bottom-left-radius: 3px;
+    border-bottom-right-radius: 3px;
+    margin-top: 12px;
+    width: 761px;
+    height: 640px;
+    align-self: center
+  }
+  .uploadpicturecontainer1row3 {
+    display: flex;
+    margin-left: 105px;
+    margin-top: 29px;
+    width: 334px;
+    height: 39px;
+    align-items: stretch
+  }
+  .style13 {
+    background-color: #fff;
+    border-left: 1px solid #fff;
+    border-right: 1px solid #fff;
+    border-top: 1px solid #fff;
+    border-bottom: 1px solid #fff;
+    border-top-left-radius: 2px;
+    border-top-right-radius: 2px;
+    border-bottom-left-radius: 2px;
+    border-bottom-right-radius: 2px;
+    margin-left: 0;
+    width: 37px
+  }
+  .style12 {
+    color: #fff;
+    font-family: sfuidisplay,serif;
+    font-size: 1.9933333333333332em;
+    font-weight: 300;
+    margin-left: 39px
+  }
+  .style8 {
+    background-color: #fff;
+    border-top-left-radius: 3px;
+    border-top-right-radius: 3px;
+    border-bottom-left-radius: 3px;
+    border-bottom-right-radius: 3px;
+    display: flex;
+    margin-top: 25px;
+    width: 761px;
+    height: 98px;
+    align-items: center;
+    align-self: center;
+    flex-direction: column;
+    justify-content: center
+  }
+  .style9 {
+    color: #36454f;
+    font-family: sfuitext,serif;
+    font-size: 2.3em;
+    height: 47px
+  }
+}
+@media (min-width:1200px) {
+  .main-wrapper {
+    margin-left: auto;
+    margin-right: auto;
+    width: 1200px
+  }
+  .style1 {
+    background-color: #000;
+    opacity: .5031920075416565;
+    display: flex;
+    margin-left: 0;
+    margin-top: 0;
+    width: 1267px;
+    height: 2662px;
+    flex-direction: column
+  }
+  .style11 {
+    color: #fff;
+    font-family: sfuitext,serif;
+    font-size: 3.4000000000000004em;
+    margin-top: 160px;
+    height: 67px;
+    align-self: center
+  }
+  .style10 {
+    background-color: #fff;
+    margin-left: 144px;
+    margin-top: 118px;
+    width: 0;
+    height: 0
+  }
+  .style7 {
+    background-image: url(https://designresources.assets.yotako.io/yjqwocjusbf7jo.png);
+    background-repeat: no-repeat;
+    background-size: contain;
+    background-position-x: center;
+    background-position-y: center;
+    border-left: 1px solid #fff;
+    border-right: 1px solid #fff;
+    border-top: 1px solid #fff;
+    border-bottom: 1px solid #fff;
+    border-top-left-radius: 3px;
+    border-top-right-radius: 3px;
+    border-bottom-left-radius: 3px;
+    border-bottom-right-radius: 3px;
+    margin-top: 16px;
+    width: 992px;
+    height: 835px;
+    align-self: center
+  }
+  .uploadpicturecontainer1row3 {
+    display: flex;
+    margin-left: 138px;
+    margin-top: 38px;
+    width: 435px;
+    height: 51px;
+    align-items: stretch
+  }
+  .style13 {
+    background-color: #fff;
+    border-left: 1px solid #fff;
+    border-right: 1px solid #fff;
+    border-top: 1px solid #fff;
+    border-bottom: 1px solid #fff;
+    border-top-left-radius: 2px;
+    border-top-right-radius: 2px;
+    border-bottom-left-radius: 2px;
+    border-bottom-right-radius: 2px;
+    margin-left: 0;
+    width: 48px
+  }
+  .style12 {
+    color: #fff;
+    font-family: sfuidisplay,serif;
+    font-size: 2.6em;
+    font-weight: 300;
+    margin-left: 51px
+  }
+  .style8 {
+    background-color: #fff;
+    border-top-left-radius: 3px;
+    border-top-right-radius: 3px;
+    border-bottom-left-radius: 3px;
+    border-bottom-right-radius: 3px;
+    display: flex;
+    margin-top: 32px;
+    width: 992px;
+    height: 128px;
+    align-items: center;
+    align-self: center;
+    flex-direction: column;
+    justify-content: center
+  }
+  .style9 {
+    color: #36454f;
+    font-family: sfuitext,serif;
+    font-size: 3em;
+    height: 61px
+  }
+}
